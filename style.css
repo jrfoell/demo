@@ -3,6 +3,11 @@ h1 {
 }
 
 h2 { 
+<<<<<<< HEAD
 	font-weight: bold;
 	color: green;
+=======
+	font-weight: bolder;
+	color: red;
+>>>>>>> Fontweight bold to bolder
 }
